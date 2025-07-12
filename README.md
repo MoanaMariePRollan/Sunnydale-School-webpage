@@ -1,5 +1,3 @@
-Flower Shop
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
